@@ -1,0 +1,207 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navi {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.bg-color {
+    color: white;
+    background-color: black;
+}
+
+nav {
+    border-bottom: 1px solid #999999;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+    padding: 30px 20px;
+}
+
+li {
+    color: #999999;
+}
+
+.pt {
+    padding: 10vh 0px;
+}
+
+.sec {
+    width: 50%;
+    margin: auto;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.mt-5 {
+    margin-top: 1rem;
+}
+
+.item-center {
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.pt div ul li {
+    padding: 0px;
+}
+
+div ul li {
+    list-style: none;
+}
+
+li {
+    color: #999999;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    unicode-bidi: isolate0;
+}
+
+.mr-30 {
+    margin: 0px 30px 0px 5px;
+}
+
+.dp {
+    border-radius: 50%;
+    width: 25px;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.fa-clock-o::before {
+    content: "\f017";
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px / 1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+.fa-calendar:before {
+    content: "\f073";
+}
+
+.content {
+    width: 50%;
+    margin: auto;
+    margin-top: 10vh;
+}
+
+.post {
+    padding-bottom: 20px;
+}
+
+.item-center {
+    align-items: center;
+}
+
+.post li {
+    list-style: none;
+    padding: 0%;
+}
+
+.color-black {
+    color: black;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.my-5 {
+    margin: 10px 0px;
+    color: #999999;
+}
+
+.bold {
+    font-weight: bold;
+    width: 90%;
+    margin: auto;
+    border-left: 1px solid black;
+    padding: 5px 10px;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.padding-less-li ul li {
+    list-style: none;
+    padding: 30px 10px;
+}
+
+.fa-facebook-f:before {
+    content: "\f09a";
+}
+
+.fa-twitter:before {
+    content: "\f099";
+}
+
+.fa-instagram:before {
+    content: "\f16d";
+}
+
+.fa-youtube:before {
+    content: "\f167";
+}
+
+.fa-whatsapp:before {
+    content: "\f232";
+}
+
+
+.relative {
+    position: relative;
+    margin-top: 3rem;
+}
+
+.absolute {
+    position: absolute;
+    top: -25px;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.dp {
+    border-radius: 50%;
+    width: 25px;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
